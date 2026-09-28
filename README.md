@@ -17,7 +17,7 @@ Portfolio ini menampilkan proyek-proyek *end-to-end* yang mencakup **Mobile Appl
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/RahmatAbdianto02/moto_gp_schedule)
 
 Aplikasi agregator jadwal balap MotoGP dengan fitur **notifikasi pengingat sesi (exact alarm)**, penyesuaian **zona waktu otomatis (WIB/WITA/WIT)**, dan **dukungan offline (offline-first architecture)**.
 
@@ -74,6 +74,12 @@ Aplikasi ini menerapkan **MVVM (Model-View-ViewModel)** dipadukan dengan **Repos
 │  - REST API (HTTP & JSON)    │    │  - SQLite (sqflite)          │
 └──────────────────────────────┘    └──────────────────────────────┘
 ```
+
+---
+
+### 🔗 Links & Resources
+
+- **GitHub Repository:** [https://github.com/RahmatAbdianto02/moto_gp_schedule](https://github.com/RahmatAbdianto02/moto_gp_schedule)
 
 ---
 
@@ -196,10 +202,14 @@ Proyek ini dirilis di bawah lisensi **MIT License**.
 
 ## 💊 Project 3: Kimia Farma Sales & Business Performance Analysis (2020–2023)
 
+[![Repository](https://img.shields.io/badge/GitHub-Kimia__Farma__Analytics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy)
+[![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy)
+
 > **Program:** Project-Based Virtual Internship Program — Big Data Analytics  
 > **Author:** Rahmat Abdianto Bolota  
 > **Final Score:** 88.72 / 100 (Excellent)  
-> **Repository:** [GitHub Project Link](https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy)
+> **Repository:** [https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy](https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy)
 
 ---
 
@@ -296,3 +306,15 @@ FROM `kimia_farma.kf_final_transaction` ft
 LEFT JOIN `kimia_farma.kf_kantor_cabang` kc ON ft.branch_id = kc.branch_id
 LEFT JOIN `kimia_farma.kf_product` p ON ft.product_id = p.product_id;
 ```
+
+---
+
+### 🔗 Links & Resources
+
+- **GitHub Repository:** [https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy](https://github.com/RahmatAbdianto02/Project-Based-Internship-PBI-Big-Data-Analytics-Kimia-Farma-x-Rakamin-Academy)
+
+---
+
+### 📄 Lisensi
+
+Proyek ini dirilis di bawah lisensi **MIT License**.
